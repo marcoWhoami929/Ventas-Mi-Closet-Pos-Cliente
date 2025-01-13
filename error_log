@@ -1,0 +1,10 @@
+[15-Dec-2024 00:01:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home1/occhimar/public_html/pos2/views/moduls/detalleNota.php on line 100
+[15-Dec-2024 00:25:53 America/Mexico_City] PHP Warning:  Undefined variable $disabledCancelar in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 204
+[15-Dec-2024 00:28:24 America/Mexico_City] PHP Warning:  Undefined variable $disabledCancelar in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 204
+[15-Dec-2024 10:27:08 America/Mexico_City] PHP Warning:  Undefined variable $disabledCancelar in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 204
+[05-Jan-2025 17:25:15 America/Mexico_City] PHP Warning:  Undefined variable $disabledCancelar in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 204
+[05-Jan-2025 17:32:03 America/Mexico_City] PHP Warning:  Undefined variable $estatus1 in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 90
+[05-Jan-2025 17:32:03 America/Mexico_City] PHP Warning:  Undefined variable $estatus2 in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 96
+[05-Jan-2025 17:32:03 America/Mexico_City] PHP Warning:  Undefined variable $estatus3 in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 102
+[05-Jan-2025 17:32:03 America/Mexico_City] PHP Warning:  Undefined variable $estatus4 in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 108
+[05-Jan-2025 17:32:03 America/Mexico_City] PHP Warning:  Undefined variable $disabledCancelar in /home1/occhimar/public_html/pos2/views/moduls/visualizarNota.php on line 204

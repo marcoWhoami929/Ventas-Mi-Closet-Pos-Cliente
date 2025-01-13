@@ -1,0 +1,42 @@
+[15-Dec-2024 00:00:57 America/Mexico_City] PHP Warning:  Undefined array key "tipo_entrega" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:00:57 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:01:08 America/Mexico_City] PHP Warning:  Undefined array key "tipo_entrega" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:01:08 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:01:34 America/Mexico_City] PHP Warning:  Undefined array key "tipo_entrega" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:01:34 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 00:01:59 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 00:01:59 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 00:18:47 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 00:18:47 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 00:28:19 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 00:28:19 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:21:06 America/Mexico_City] PHP Warning:  Undefined array key "tipo_entrega" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 10:21:06 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 48
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Warning:  Undefined variable $campo_nombre in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 794
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Warning:  Undefined array key "" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 794
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Warning:  Undefined variable $campo_nombre in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 798
+[15-Dec-2024 10:26:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '260' WHERE codigo_sesion = 0' at line 1 in /home1/occhimar/public_html/pos2/models/notas.model.php:259
+Stack trace:
+#0 /home1/occhimar/public_html/pos2/models/notas.model.php(259): PDOStatement->execute()
+#1 /home1/occhimar/public_html/pos2/controllers/notas.controller.php(122): ModelNotas::mdlActualizarSesion(Array, NULL)
+#2 /home1/occhimar/public_html/pos2/ajax/notas.ajax.php(798): ControllerNotas::ctrActualizarSesion(Array, NULL)
+#3 {main}
+  thrown in /home1/occhimar/public_html/pos2/models/notas.model.php on line 259
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Warning:  Undefined variable $campo_nombre in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 794
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Warning:  Undefined array key "" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 794
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Warning:  Undefined variable $campo_nombre in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 798
+[15-Dec-2024 10:26:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '260' WHERE codigo_sesion = 0' at line 1 in /home1/occhimar/public_html/pos2/models/notas.model.php:259
+Stack trace:
+#0 /home1/occhimar/public_html/pos2/models/notas.model.php(259): PDOStatement->execute()
+#1 /home1/occhimar/public_html/pos2/controllers/notas.controller.php(122): ModelNotas::mdlActualizarSesion(Array, NULL)
+#2 /home1/occhimar/public_html/pos2/ajax/notas.ajax.php(798): ControllerNotas::ctrActualizarSesion(Array, NULL)
+#3 {main}
+  thrown in /home1/occhimar/public_html/pos2/models/notas.model.php on line 259
+[15-Dec-2024 10:26:41 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[15-Dec-2024 10:26:41 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[05-Jan-2025 17:24:48 America/Mexico_City] PHP Warning:  Undefined array key "forma_pago" in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
+[05-Jan-2025 17:24:48 America/Mexico_City] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/occhimar/public_html/pos2/ajax/notas.ajax.php on line 578
